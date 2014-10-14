@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">PubnubFingerpaint</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="loginTitle">Pubnub Fingerpaint</string>
+    <string name="defaultChannel">default</string>
+    <string name="ChannelPrompt">Enter channel name:</string>
+    <string name="drawing_activity_name">Drawing Activity</string>
+
+</resources>
